@@ -113,7 +113,7 @@ This is an intelligent assistant designed to support users in their fitness jour
 ## 📦 Repo Structure
 
 ```
-multiagent-workoutapp/
+Agentic-Workout-System/
 ├── assets/              # Architecture diagrams and visuals
 ├── flows/               # Langflow agent JSON files
 ├── prompts/             # Custom prompt templates
