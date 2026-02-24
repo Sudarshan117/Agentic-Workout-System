@@ -1,4 +1,4 @@
-# 🧠 MultiAgent-WorkoutApp
+# 🧠 Multi Agent Workout System
 
 This is a full-stack AI-powered fitness assistant that uses **multi-agent LLM orchestration**, **dynamic prompt routing**, **cloud-native storage**, and **retrieval-augmented generation (RAG)** to deliver personalized health and wellness recommendations. Built entirely from scratch, this app demonstrates advanced capabilities in intelligent agent design, Langflow-based orchestration, and production-grade AI integration.
 
@@ -133,8 +133,8 @@ multiagent-workoutapp/
 ## 🚀 Run Locally
 
 ```bash
-git clone https://github.com/RevatiBhavsar/multi-agent-workoutapp.git
-cd multiagent-workoutapp
+git clone https://github.com/Sudarshan117/Agentic-Workout-System.git
+cd Agentic-Workout-System
 pip install -r requirements.txt
 streamlit run app.py
 ```
@@ -152,7 +152,7 @@ ASTRA_DB_SECRET=
 
 ## 💼 Why It Stands Out
 
-`MultiAgent-WorkoutApp` isn’t just a prompt wrapper — it's a **modular, LLM-integrated platform** that reflects real-world AI engineering:
+`Agentic-Workout-System` isn’t just a prompt wrapper — it's a **modular, LLM-integrated platform** that reflects real-world AI engineering:
 
 - Real-time multi-agent orchestration
 - Persistent memory and vector storage via AstraDB
@@ -165,10 +165,10 @@ ASTRA_DB_SECRET=
 
 ## 👋 Author
 
-Revati Bhavsar\
+Sudarshan Manavalan \
  Software Engineer | AI Systems Engineer | Full-Stack Developer\
-📧 [revati.bhavsar@gmail.com](mailto\:revati.bhavsar@gmail.com) | [revatib@vt.edu](mailto\:revatib@vt.edu)\
-🌐 [LinkedIn](https://linkedin.com/in/revatibhavsar)
+📧 [sudarshanmanavalan07@gmail.com](mailto\:sudarshanmanavalan07@gmail.com) \
+🌐 [LinkedIn](https://linkedin.com/in/sudarshan-manavalan)
 
 ---
 
