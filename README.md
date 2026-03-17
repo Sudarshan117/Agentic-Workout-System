@@ -90,7 +90,7 @@ This is an intelligent assistant designed to support users in their fitness jour
 
 ### Personal Notes Section
 
-![Personal Notes Section](assets/notes.png)
+![Personal Notes Section](assets/notespage.png)
 
 ### “Ask AI” Chat Panel
 
