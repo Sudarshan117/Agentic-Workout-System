@@ -166,7 +166,7 @@ ASTRA_DB_SECRET=
 ## 👋 Author
 
 Sudarshan Manavalan \
- Software Engineer | AI Systems Engineer | Full-Stack Developer\
+ Software Engineer | AI Systems Engineer | Full-Stack Developer | Software Engineer \
 📧 [sudarshanmanavalan07@gmail.com](mailto\:sudarshanmanavalan07@gmail.com) \
 🌐 [LinkedIn](https://linkedin.com/in/sudarshan-manavalan)
 
