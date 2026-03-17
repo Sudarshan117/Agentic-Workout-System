@@ -82,11 +82,11 @@ This is an intelligent assistant designed to support users in their fitness jour
 
 ### Personal Fitness Profile Form
 
-![Personal Fitness Profile Form](assets/profile-form.png)
+![Personal Fitness Profile Form](assets/uiworkoutapp.png)
 
 ### Fitness Goal & Macronutrient Panel
 
-![Fitness Goal & Macronutrient Panel](assets/goal-macro-panel.png)
+![Fitness Goal & Macronutrient Panel](assets/goals.png)
 
 ### Personal Notes Section
 
@@ -94,7 +94,7 @@ This is an intelligent assistant designed to support users in their fitness jour
 
 ### “Ask AI” Chat Panel
 
-![AskAI Chat Panel](assets/askai-chat.png)
+![AskAI Chat Panel](assets/askai.png)
 
 
 ---
